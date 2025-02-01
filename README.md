@@ -1,3 +1,4 @@
 # My_demo
-This is my First Git Repository
-Author-Suraj
+This is my First Git Repository.
+<br>
+Author - Suraj
